@@ -19,7 +19,7 @@ const links = [
                 'to-indigo-600',
                 'pl-24',
                 'shadow-lg',
-                'shadow-indigo-400',
+                'shadow-indigo-100',
                 'md:pl-32',
                 'transition-all',
                 'duration-200',
