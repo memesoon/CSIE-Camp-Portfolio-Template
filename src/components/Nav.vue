@@ -15,7 +15,7 @@ const links = [
                 'w-full',
                 'rounded-b-lg',
                 'bg-gradient-to-r',
-                'from-violet-800',
+                'from-slate-600',
                 'to-indigo-600',
                 'pl-24',
                 'shadow-lg',
